@@ -1,2 +1,2 @@
-# STS-Sim-to-Sample-
+# Sim-to-Sample
 Senior Project Website
